@@ -23,4 +23,5 @@ def ask_question(question, answers):
 question = "What is the capital of France?"
 answers = ["PC vil ikke lade", "PC skrur seg ikke pa", "Skjerm er odelagt", "Vet ikke"]
 
+
 ask_question(question, answers)
